@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_77" class="java.beans.XMLDecoder">
+ <array class="DShapeModel" length="5">
+  <void index="0">
+   <object class="DRectModel">
+    <void property="height">
+     <int>30</int>
+    </void>
+    <void property="width">
+     <int>30</int>
+    </void>
+    <void property="x">
+     <int>157</int>
+    </void>
+    <void property="y">
+     <int>157</int>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="DOvalModel">
+    <void property="height">
+     <int>30</int>
+    </void>
+    <void property="width">
+     <int>30</int>
+    </void>
+    <void property="x">
+     <int>261</int>
+    </void>
+    <void property="y">
+     <int>131</int>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="DRectModel">
+    <void property="height">
+     <int>30</int>
+    </void>
+    <void property="width">
+     <int>30</int>
+    </void>
+    <void property="x">
+     <int>96</int>
+    </void>
+    <void property="y">
+     <int>96</int>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="DOvalModel">
+    <void property="height">
+     <int>30</int>
+    </void>
+    <void property="width">
+     <int>30</int>
+    </void>
+    <void property="x">
+     <int>330</int>
+    </void>
+    <void property="y">
+     <int>319</int>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="DRectModel">
+    <void property="height">
+     <int>30</int>
+    </void>
+    <void property="width">
+     <int>30</int>
+    </void>
+    <void property="x">
+     <int>221</int>
+    </void>
+    <void property="y">
+     <int>221</int>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
